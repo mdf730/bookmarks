@@ -1,0 +1,42 @@
+baseURL = "https://mdf730.github.io/bookmarks/"
+languageCode = "en-us"
+title = "Matthew Fabian - Bookmarks"
+theme = "slate"
+publishDir = "docs"
+
+[ params ]
+
+BackgroundImages = [
+	"img/1.jpg",
+	"img/2.jpg",
+	"img/4.jpg"
+]
+
+OpenLinksInNewWindow = true
+
+Favicon = "favicon.ico"
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "fun"
+tag = "fun"
+icon = "rocket"
+
+[[ params.nav ]]
+name = "code"
+tag = "code"
+icon = "code"
+
+[[ params.nav ]]
+name = "money"
+tag = "money"
+icon = "money"
+
+[[ params.nav ]]
+name = "school"
+tag = "school"
+icon = "graduation-cap"

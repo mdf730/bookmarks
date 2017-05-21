@@ -1,0 +1,105 @@
+tiles:
+-
+  name: "gmail"
+  url: "https://gmail.com"
+  img: "logos/gmail.svg"
+  tags: ["favorite"]
+-
+  name: "youtube"
+  url: "https://youtube.com"
+  img: "logos/youtube.svg"
+  bg_color: "#ffffff"
+  txt_color: "#cd201f"
+  tags: ["fun"]
+-
+  name: "sakai"
+  url: "https://sakai.nd.edu/"
+  img: "logos/sakai.png"
+  tags: ["school"]
+-
+  name: "facebook"
+  url: "https://facebook.com"
+  img: "logos/facebook.svg"
+  tags: ["fun"]
+-
+  name: "linkedin"
+  url: "https://linkedin.com"
+  img: "logos/linkedin.svg"
+  tags: []
+-
+  name: "personal"
+  url: "http://www3.nd.edu/~mfabian1/"
+  img: "logos/matt.jpg"
+  tags: []
+-
+  name: "google drive"
+  url: "https://drive.google.com/"
+  img: "logos/drive.svg"
+  tags: ["school"]
+-
+  name: "ultratime"
+  url: "https://ultratime.nd.edu/UltraTime/"
+  img: "logos/ultra.png"
+  tags: ["money"]
+-
+  name: "mint"
+  url: "https://www.mint.com/"
+  img: "logos/mint.svg"
+  tags: ["money"]
+-
+  name: "slack"
+  url: "https://ndhandbells.slack.com"
+  img: "logos/slack.svg"
+  tags: ["favorite"]
+-
+  name: "github"
+  url: "https://github.com/"
+  img: "logos/github.png"
+  tags: ["code"]
+-
+  name: "gitlab"
+  url: "https://gitlab.com/users/sign_in"
+  img: "logos/gitlab.svg"
+  tags: ["code"]
+-
+  name: "reddit"
+  url: "https://reddit.com"
+  img: "logos/reddit.svg"
+#  bg_color: "#5f99cf"
+#  txt_color: "#ffffff"
+  tags: ["fun", "favorite"]
+-
+  name: "ethics"
+  url: "http://www3.nd.edu/~pbui/teaching/cse.40175.fa17/"
+  img: "logos/ethics.png"
+  tags: ["school"]
+-
+  name: "paradigms"
+  url: "http://www3.nd.edu/~skumar5/"
+  img: "logos/paradigms.png"
+  tags: ["school"]
+-
+  name: "theory"
+  url: "http://www3.nd.edu/~dchiang/teaching/theory/2017/www/"
+  img: "logos/theory.png"
+  tags: ["school"]
+-
+  name: "capstone"
+  url: "https://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors"
+  img: "logos/capstone.png"
+  tags: ["school"]
+-
+  name: "piazza"
+  url: "https://piazza.com/"
+  img: "logos/piazza.svg"
+  tags: ["school"]
+-
+  name: "hackerrank"
+  url: "https://www.hackerrank.com/dashboard"
+  img: "logos/hacker.svg"
+  tags: ["code"]
+-
+  name: "insideND"
+  url: "https://www.inside.nd.edu"
+  img: "logos/inside.png"
+  tags: ["favorite"]
