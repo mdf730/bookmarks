@@ -67,7 +67,7 @@ tiles:
   img: "logos/reddit.svg"
 #  bg_color: "#5f99cf"
 #  txt_color: "#ffffff"
-  tags: ["fun", "favorite"]
+  tags: ["fun"]
 -
   name: "ethics"
   url: "http://www3.nd.edu/~pbui/teaching/cse.40175.fa17/"
@@ -75,17 +75,17 @@ tiles:
   tags: ["school"]
 -
   name: "paradigms"
-  url: "http://www3.nd.edu/~skumar5/"
+  url:  "https://www3.nd.edu/~skumar5/teaching/2017-fall-pp.html"
   img: "logos/paradigms.png"
   tags: ["school"]
 -
   name: "theory"
-  url: "http://www3.nd.edu/~dchiang/teaching/theory/2017/www/"
+  url: "https://www3.nd.edu/~kogge/courses/cse30151-fa17/index.html"
   img: "logos/theory.png"
   tags: ["school"]
 -
   name: "capstone"
-  url: "https://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors"
+  url: "https://piazza.com/class/j6p4g57pi3qz1"
   img: "logos/capstone.png"
   tags: ["school"]
 -
