@@ -62,12 +62,10 @@ tiles:
   img: "logos/gitlab.svg"
   tags: ["code"]
 -
-  name: "reddit"
-  url: "https://reddit.com"
-  img: "logos/reddit.svg"
-#  bg_color: "#5f99cf"
-#  txt_color: "#ffffff"
-  tags: ["fun"]
+  name: "accounting"
+  url: "https://acct20100.com"
+  img: "logos/acct.png"
+  tags: ["school"]
 -
   name: "ethics"
   url: "http://www3.nd.edu/~pbui/teaching/cse.40175.fa17/"
