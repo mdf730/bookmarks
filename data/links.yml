@@ -63,7 +63,7 @@ tiles:
   tags: ["code"]
 -
   name: "accounting"
-  url: "https://acct20100.com"
+  url: "http://acct20100.com"
   img: "logos/acct.png"
   tags: ["school"]
 -
