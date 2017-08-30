@@ -92,10 +92,10 @@ tiles:
   img: "logos/piazza.svg"
   tags: ["school"]
 -
-  name: "hackerrank"
-  url: "https://www.hackerrank.com/dashboard"
-  img: "logos/hacker.svg"
-  tags: ["code"]
+  name: "software engineering"
+  url: "https://sakailogin.nd.edu/portal/site/FA17-CSE-40232-01/page/15bb2113-6582-4766-a671-6e98ed77f46d"
+  img: "logos/software.png"
+  tags: ["school"]
 -
   name: "insideND"
   url: "https://inside.nd.edu"
