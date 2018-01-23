@@ -32,11 +32,6 @@ tiles:
   img: "logos/matt.jpg"
   tags: []
 -
-  name: "google drive"
-  url: "https://drive.google.com/"
-  img: "logos/drive.svg"
-  tags: ["school"]
--
   name: "ultratime"
   url: "https://ultratime.nd.edu/UltraTime/"
   img: "logos/ultra.png"
@@ -47,57 +42,62 @@ tiles:
   img: "logos/mint.svg"
   tags: ["money"]
 -
-  name: "slack"
-  url: "https://ndhandbells.slack.com"
-  img: "logos/slack.svg"
-  tags: ["favorite"]
--
   name: "github"
   url: "https://github.com/"
   img: "logos/github.png"
   tags: ["code"]
 -
-  name: "gitlab"
-  url: "https://gitlab.com/users/sign_in"
-  img: "logos/gitlab.svg"
-  tags: ["code"]
--
-  name: "accounting"
-  url: "http://acct20100.com"
-  img: "logos/acct.png"
+  name: "vfx"
+  url: "https://www3.nd.edu/~rbualuan/courses/VFX2018/main.html"
+  img: "logos/vfx.jpg"
   tags: ["school"]
 -
-  name: "ethics"
-  url: "http://www3.nd.edu/~pbui/teaching/cse.40175.fa17/"
-  img: "logos/ethics.png"
+  name: "history of computing"
+  url: "https://www3.nd.edu/~pbui/teaching/cse.40850.sp18/"
+  img: "logos/historyofcomputing.png"
   tags: ["school"]
 -
-  name: "paradigms"
-  url:  "https://www3.nd.edu/~skumar5/teaching/2017-fall-pp.html"
-  img: "logos/paradigms.png"
+  name: "epic"
+  url: "https://epic.avature.net/Onboarding/Login"
+  img: "logos/epic.svg"
+  tags: []
+-
+  name: "computing blog"
+  url: "http://mfabian.com/"
+  img: "logos/blog.png"
   tags: ["school"]
 -
-  name: "theory"
-  url: "https://www3.nd.edu/~kogge/courses/cse30151-fa17/index.html"
-  img: "logos/theory.png"
-  tags: ["school"]
+  name: "r/survivor"
+  url: "https://www.reddit.com/r/survivor/"
+  img: "logos/survivor.svg"
+  tags: ["fun"]
 -
-  name: "capstone"
-  url: "https://piazza.com/class/j6p4g57pi3qz1"
-  img: "logos/capstone.png"
-  tags: ["school"]
+  name: "discover"
+  url: "https://card.discover.com/cardmembersvcs/achome/homepage"
+  img: "logos/discover.svg"
+  tags: ["money"]
+-
+  name: "capital one"
+  url: "https://servicese.capitalone.com/accounts"
+  img: "logos/capitalone.svg"
+  tags: ["money"]
+-
+  name: "citi"
+  url: "https://online.citi.com/US/CBOL/ain/caraccdet/flow.action"
+  img: "logos/citi.svg"
+  tags: ["money"]
+-
+  name: "m&t"
+  url: "https://onlinebanking.mtb.com/Accounts/AccountSummary"
+  img: "logos/mandt.svg"
+  tags: ["money"]
 -
   name: "piazza"
   url: "https://piazza.com/"
   img: "logos/piazza.svg"
   tags: ["school"]
 -
-  name: "software engineering"
-  url: "https://sakailogin.nd.edu/portal/site/FA17-CSE-40232-01/page/15bb2113-6582-4766-a671-6e98ed77f46d"
-  img: "logos/software.png"
-  tags: ["school"]
--
   name: "insideND"
   url: "https://inside.nd.edu"
   img: "logos/inside.png"
-  tags: ["favorite"]
+  tags: ["school"]
