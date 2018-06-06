@@ -5,17 +5,17 @@ tiles:
   img: "logos/gmail.svg"
   tags: ["favorite"]
 -
+  name: "drive"
+  url: "https://drive.google.com/"
+  img: "logos/drive.svg"
+  tags: ["favorite"]
+-
   name: "youtube"
   url: "https://youtube.com"
   img: "logos/youtube.svg"
   bg_color: "#ffffff"
   txt_color: "#cd201f"
   tags: ["fun"]
--
-  name: "sakai"
-  url: "https://sakai.nd.edu/"
-  img: "logos/sakai.png"
-  tags: ["school"]
 -
   name: "facebook"
   url: "https://facebook.com"
@@ -27,16 +27,6 @@ tiles:
   img: "logos/linkedin.svg"
   tags: []
 -
-  name: "personal"
-  url: "http://www3.nd.edu/~mfabian1/"
-  img: "logos/matt.jpg"
-  tags: []
--
-  name: "ultratime"
-  url: "https://ultratime.nd.edu/UltraTime/"
-  img: "logos/ultra.png"
-  tags: ["money"]
--
   name: "mint"
   url: "https://www.mint.com/"
   img: "logos/mint.svg"
@@ -47,24 +37,14 @@ tiles:
   img: "logos/github.png"
   tags: ["code"]
 -
-  name: "vfx"
-  url: "https://www3.nd.edu/~rbualuan/courses/VFX2018/main.html"
-  img: "logos/vfx.jpg"
-  tags: ["school"]
--
-  name: "history of computing"
-  url: "https://www3.nd.edu/~pbui/teaching/cse.40850.sp18/"
-  img: "logos/historyofcomputing.png"
-  tags: ["school"]
--
   name: "epic"
   url: "https://epic.avature.net/Onboarding/Login"
   img: "logos/epic.svg"
   tags: []
 -
-  name: "computing blog"
+  name: "personal"
   url: "http://mfabian.com/"
-  img: "logos/blog.png"
+  img: "logos/matt.jpg"
   tags: ["school"]
 -
   name: "r/survivor"
@@ -92,12 +72,12 @@ tiles:
   img: "logos/mandt.svg"
   tags: ["money"]
 -
-  name: "piazza"
-  url: "https://piazza.com/"
-  img: "logos/piazza.svg"
-  tags: ["school"]
+  name: "leetcode"
+  url: "https://leetcode.com/"
+  img: "logos/leetcode.png"
+  tags: ["code"]
 -
-  name: "insideND"
-  url: "https://inside.nd.edu"
-  img: "logos/inside.png"
-  tags: ["school"]
+  name: "roundcube"
+  url: "https://www.mailindeed.com/roundcube/?_task=mail&_mbox=INBOX"
+  img: "logos/roundcube.png"
+  tags: ["favorite"]
