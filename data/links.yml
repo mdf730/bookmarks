@@ -17,6 +17,11 @@ tiles:
   txt_color: "#cd201f"
   tags: ["fun"]
 -
+  name: "roundcube"
+  url: "https://www.mailindeed.com/roundcube/?_task=mail&_mbox=INBOX"
+  img: "logos/roundcube.png"
+  tags: ["favorite"]
+-
   name: "facebook"
   url: "https://facebook.com"
   img: "logos/facebook.svg"
@@ -45,7 +50,7 @@ tiles:
   name: "personal"
   url: "http://mfabian.com/"
   img: "logos/matt.jpg"
-  tags: ["school"]
+  tags: []
 -
   name: "r/survivor"
   url: "https://www.reddit.com/r/survivor/"
@@ -77,7 +82,7 @@ tiles:
   img: "logos/leetcode.png"
   tags: ["code"]
 -
-  name: "roundcube"
-  url: "https://www.mailindeed.com/roundcube/?_task=mail&_mbox=INBOX"
-  img: "logos/roundcube.png"
+  name: "ward"
+  url: "https://www.parahumans.net/"
+  img: "logos/ward.png"
   tags: ["favorite"]
