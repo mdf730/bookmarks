@@ -5,6 +5,11 @@ tiles:
   img: "logos/gmail.svg"
   tags: ["favorite"]
 -
+  name: "roundcube"
+  url: "https://www.mailindeed.com/roundcube/?_task=mail&_mbox=INBOX"
+  img: "logos/roundcube.png"
+  tags: ["favorite"]
+-
   name: "drive"
   url: "https://drive.google.com/"
   img: "logos/drive.svg"
@@ -17,11 +22,6 @@ tiles:
   txt_color: "#cd201f"
   tags: ["fun"]
 -
-  name: "roundcube"
-  url: "https://www.mailindeed.com/roundcube/?_task=mail&_mbox=INBOX"
-  img: "logos/roundcube.png"
-  tags: ["favorite"]
--
   name: "facebook"
   url: "https://facebook.com"
   img: "logos/facebook.svg"
@@ -31,11 +31,6 @@ tiles:
   url: "https://linkedin.com"
   img: "logos/linkedin.svg"
   tags: []
--
-  name: "mint"
-  url: "https://www.mint.com/"
-  img: "logos/mint.svg"
-  tags: ["money"]
 -
   name: "github"
   url: "https://github.com/"
@@ -76,6 +71,20 @@ tiles:
   url: "https://onlinebanking.mtb.com/Accounts/AccountSummary"
   img: "logos/mandt.svg"
   tags: ["money"]
+-
+  name: "mint"
+  url: "https://www.mint.com/"
+  img: "logos/mint.svg"
+  tags: ["money"]
+-
+  name: "fidelity"
+  url: "https://oltx.fidelity.com/ftgw/fbc/oftop/portfolio#summary"
+  img: "logos/fidelity.svg"
+  tags: ["money"]
+-
+  name: "utilipro"
+  url: "https://n22.ultipro.com/default.aspx"
+  img: "logos/utilipro.png"
 -
   name: "leetcode"
   url: "https://leetcode.com/"
